@@ -59,7 +59,7 @@
 
 @media (pointer: coarse) and (hover: none) {
     header {
-        background: url('/assets/images/siwbackground.jpg') black no-repeat center center scroll;
+        background: url('/images/background.jpg') black no-repeat center center scroll;
     }
 
     header video {
